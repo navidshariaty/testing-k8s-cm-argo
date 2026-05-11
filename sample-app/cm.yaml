@@ -4,4 +4,4 @@ metadata:
   name: test-cm
   namespace: navid-playground
 data:
-  config.yml: "hello: world!\n"
+  config.yml: "hello: world\n"
